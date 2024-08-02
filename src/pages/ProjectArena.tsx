@@ -4,7 +4,7 @@ import { TypeSelectableMenu } from "@/utils/type";
 import { useState } from "react";
 import { useColor } from "@/hooks/useColor";
 import Image from "next/image";
-import { Bucket, Eraser, Logo, Pencil } from "@/assets";
+import { Bucket, Eraser, Pencil } from "@/assets";
 import useCollapse from "@/hooks/useCollapse";
 import {
   IconCaretDownFilled,
